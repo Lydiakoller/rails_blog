@@ -1,0 +1,31 @@
+/*body{
+	font-family: Helvetica;
+	text-align: center;
+}
+
+h2{
+
+}
+
+#table {
+width: 498px;
+background: rgb(219, 219, 230);
+margin: 0 auto;
+padding: 45px;
+text-align: left;
+}
+
+td {
+margin-right: 24px;
+padding: 7px;
+}
+
+#commenter{
+	color:white;
+	background: gray;
+}*/
+
+#container {
+width: 339px;
+margin: auto;
+}
