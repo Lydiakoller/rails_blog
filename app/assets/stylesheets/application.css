@@ -25,7 +25,54 @@ padding: 7px;
 	background: gray;
 }*/
 
-#container {
-width: 339px;
-margin: auto;
+body{
+background-image:url('crossword.png');
+background-size:cover;
 }
+
+h1, h2, p{
+	text-align:center;
+}
+
+h3 p{
+	display: inline;
+}
+
+#container {
+width: 700px;
+height: 600px;
+margin: auto;
+font-family: 'Fredericka the Great', cursive;
+background-color: white;
+}
+
+#container > h1 {
+padding-top: 25px;
+margin: 0;
+}
+
+#table {
+margin-top: 60px;
+margin-left: 35px;
+margin-right: 30px;
+text-align: center;
+}
+
+#post-links p{
+	display:inline;
+}
+
+#title {
+width: 325px;
+margin: auto;
+border-bottom: 1px solid gray;
+margin-top: 40px;
+}
+
+#title *{
+	display: inline;
+}
+
+
+
+
